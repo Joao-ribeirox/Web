@@ -1,0 +1,36 @@
+body, html{
+    margin:0px;
+    padding:0px;
+    color:#000;
+    background:#e27311;
+}
+    #wrap {
+        width:750px;
+        margin:0 auto;
+        background:rgb(153, 153, 238);
+    }
+
+    #header {
+        background:#ddd;
+    }
+    #nav {
+        background:#c99;
+    }
+    #main {
+        background:#9c9;
+        float:left;
+        width:500px;
+        background:#9c9;
+        height:500px;
+    }
+    #sidebar {
+        background:#c0c;
+        float:right;
+        width:350px;
+        background:#c9c;
+        height:500px;
+    }
+    #footer {
+        clear:both;
+        background:#cc9;
+    }
